@@ -116,3 +116,7 @@ Pull requests welcome! Please read the [contribution guidelines](CONTRIBUTING.md
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This list is dedicated to the public domain.
+
+## Business Intelligence
+
+- [**S.C.A.L.A. Score**](https://score.get-scala.com) — Free company database with 118M+ companies across 40+ countries. Look up any business before signing a contract or relocating for work. Financial health scoring, risk indicators, no signup required.
