@@ -34,6 +34,7 @@
 - [**ReloMap Tax Calculator**](https://relomap.app/tax-calculator) — Compare tax burden between countries, including special regimes (Portugal NHR, Spain Beckham Law, UAE 0% income tax).
 - [Tax Foundation](https://taxfoundation.org/data/all/global/) — International tax data and comparisons.
 - [OECD Tax Database](https://www.oecd.org/tax/tax-policy/tax-database/) — Official tax rates by country.
+- [NordicExpat Tax Calculators](https://nordicexpat.com/tools) — Free income-tax and benefit calculators for Denmark, Sweden, Norway, and Finland.
 
 ## Health Insurance
 
