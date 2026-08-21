@@ -28,6 +28,7 @@
 - [VisaGuide.World](https://visaguide.world) — Visa requirements checker by nationality.
 - [Nomad Visa Guide](https://nomadvisaguide.com) — Focused on digital nomad visa programs.
 - [Immigration World](https://www.immigration-world.com) — Country-by-country immigration requirements.
+- [Daybound](https://daybound.9ek.ru/) — Free Schengen 90/180 calculator and per-country day tracker (calendar year and rolling 12 months)
 
 ## Tax Planning
 
