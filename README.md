@@ -78,6 +78,7 @@
 - [**ReloMap Compare**](https://relomap.app/compare) — Side-by-side comparison of up to 5 cities on 15+ metrics
 - [Nomad List](https://nomadlist.com) — Digital nomad city rankings (paid, $99/year)
 - [Teleport](https://teleport.org/) — City quality of life scores
+- [IndepAI](https://indepai.app/geo-arbitrage) - Compares 11,800+ cities on cost of living and shows how each move shortens your path to financial independence. Free FI score, Coast FIRE, and geo-arbitrage calculators for nomads and expats.
 
 ## Communities
 
