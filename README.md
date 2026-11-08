@@ -80,6 +80,7 @@
 - [**ReloMap Compare**](https://relomap.app/compare) — Side-by-side comparison of up to 5 cities on 15+ metrics
 - [Nomad List](https://nomadlist.com) — Digital nomad city rankings (paid, $99/year)
 - [Teleport](https://teleport.org/) — City quality of life scores
+- [Take Root Abroad](https://takerootabroad.com/?utm_source=github-awesome-relocation&utm_medium=directory&utm_campaign=tra_directories&utm_content=github-awesome-relocation-listing) — Planning tool for Americans moving abroad, with sourced, dated costs, visa routes and tax posture for 20+ countries. Free country comparison; Planner $229 first year.
 
 ## Communities
 
