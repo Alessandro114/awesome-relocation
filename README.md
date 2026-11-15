@@ -80,6 +80,7 @@
 - [**ReloMap Compare**](https://relomap.app/compare) — Side-by-side comparison of up to 5 cities on 15+ metrics
 - [Nomad List](https://nomadlist.com) — Digital nomad city rankings (paid, $99/year)
 - [Teleport](https://teleport.org/) — City quality of life scores
+- [Global City Intelligence](https://www.globalcityintelligence.com/) — Free comparison of 4,400+ cities in 105 countries on cost of living, climate, safety and healthcare, with a public methodology page
 
 ## Communities
 
